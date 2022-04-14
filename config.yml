@@ -1,6 +1,6 @@
 title: First project
-description: Facebook copy by html and css.
-template:
+description: calculator by html and css.
+template
   repo: first-project-template
   name: first-project
 before:

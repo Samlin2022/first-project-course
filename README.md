@@ -1,2 +1,2 @@
 # first-project-course
-Calculator by html css and js
+Calculator by html css and js.

@@ -1,0 +1,46 @@
+* {
+    font-size: 18pt;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    height: 300px;
+    border: 1px solid black;
+    align-items: center;
+}.output{
+    width: 100%;
+}
+.output input{
+     width: 87%;
+     height: 50px;
+     border: 1px solid black;
+     box-shadow: 0px 0px 5px 5px #C1C2C9;
+}
+.keys{
+    height: 100%
+}
+.keys input{
+   
+    width: 16%;
+    height: 60px;
+    box-shadow: -5px 3px 8px 2px #BDBEC6;
+
+   
+   }
+.keys .clear{
+    width: 34%;
+    background-color: #C01F9B
+}
+.keys .equal{
+    background-color: #0FD228;
+    width: 34%;
+}
+.keys #k0 {
+    width: 34%;
+}
+input:hover {
+   
+    color: white;
+    background-color: #57585D;
+    font-weight: bold;
+}
